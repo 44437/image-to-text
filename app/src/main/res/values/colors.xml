@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="ust">#BFBFBF</color>
+    <color name="alertEkran">#fff</color>
+    <color name="basEkran">#fff</color>
+    <color name="yaziRenk">#000</color>
+    <color name="gece">#D6D6D6</color>
+    <color name="gunduz">#730505</color>
+
+
+</resources>
